@@ -4,6 +4,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://silviadangelo.github.io/"
+publishDir = "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io"
 
 # Title of your site
 title = "Silvia D'Angelo"
