@@ -1,4 +1,4 @@
-+++
+﻿+++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 #widget = "publications"
@@ -37,6 +37,10 @@ exclude_selected = false
 
 +++
 
+- D'Angelo, S., Alfò, M. and Murphy, T.B. (2018)
+  <br>
+**Modelling heterogeneity in multidimensional networks.**<br>
+  
 
 - D'Angelo, S., Murphy, T.B. and Alfò, M. (2018)
   <br>
