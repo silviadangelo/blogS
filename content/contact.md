@@ -20,7 +20,7 @@ autolink = true
 ## Address
 
 DEPARTMENT OF STATISTICAL SCIENCES<br>
-Sapienza University <br>
+Sapienza, University of Rome<br>
 Piazzale Aldo Moro 5, <br>
 00185 Roma
 
