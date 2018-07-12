@@ -1,7 +1,7 @@
 ﻿+++
 # Recent and Upcoming Talks widget.
 active = false
-date = 2018-04-20T00:00:00
+date = 2018-07-12T00:00:00
 slug = "talks"
 
 title = "Recent & Upcoming Talks"
@@ -20,11 +20,14 @@ list_format = 0
 
 +++
 
+- <b>MBC2<b> (talk) <br>
+  Università degli Studi di Catania, 09-2018.
+ 
 - <b>SIS 2018<b> (talk) <br>
   Università degli Studi di Palermo, 06-2018.
   
 - <b>Young Researchers Seminars<b> (talk)<br>
-  MEMOTEF,  Sapienza, University of Rome, 02-2018.
+  MEMOTEF,  Sapienza, Università di Roma, 02-2018.
   
 - <b>Working Group on Statistical Learning<b> (talk)<br>
   University College Dublin, 11-2017.
@@ -36,7 +39,7 @@ list_format = 0
   Università degli Studi di Firenze, 06-2017.
   
 - <b>SISBAYES 2017<b> (poster) <br>
-  Sapienza, University of Rome, 02-2017.
+  Sapienza, Università di Roma, 02-2017.
   
 - <b>Final meeting of the research group on “Mixture and Latent Variable Models for Causal Inference and Analysis of Socio-Economic Data"<b> (poster)<br>
   Università di Bologna , 02-2017.

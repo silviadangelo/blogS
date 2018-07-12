@@ -1,9 +1,9 @@
 +++
-title = "Modelling heterogeneity in multidimensional networks"
+title = "Node-specific effects in latent space modelling of multidimensional networks"
 date = "2018-07-10"
 
 # Authors. Comma separated list, e.g. .
-authors = ["S D'Angelo", "M Alfò", "T B Murphy", ]
+authors = ["S D'Angelo", "M Alfo", "T B Murphy", ]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = "*arXiv*."
 publication_short = "*arXiv*"
 
 # links
-url_pdf = ""
+url_pdf = "https://arxiv.org/pdf/1807.03874.pdf"
 
 # Featured image thumbnail (optional)
 image_preview = ""
