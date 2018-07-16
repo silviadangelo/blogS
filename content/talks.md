@@ -20,6 +20,9 @@ list_format = 0
 
 +++
 
+- <b>CMStatistics <b> (invited talk) <br>
+  University of Pisa, 12-2018.
+
 - <b>MBC2<b> (talk) <br>
   University of Catania, 09-2018.
  
