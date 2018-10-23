@@ -46,7 +46,7 @@ exclude_selected = false
 - D'Angelo, S., Murphy, T.B. and Alfò, M. (2018)
   <br>
 **Latent space modeling of multidimensional networks with application to the exchange of votes in the Eurovision Song Contest.**<br>
-  *Annals of Applied Statistics (accepted)*. [arXiv](https://arxiv.org/abs/1803.07166)
+  *Annals of Applied Statistics* (accepted). [arXiv](https://arxiv.org/abs/1803.07166)
   
 ***Articles***<br>
 
