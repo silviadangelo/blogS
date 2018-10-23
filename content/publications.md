@@ -60,5 +60,5 @@ exclude_selected = false
 - Crispino, M., D’Angelo, S., Ranciati, S., and Mira, A. (2018)
  <br>
 **Understanding Dependency Patterns in Structural and Functional Brain Connectivity Through fMRI and DTI Data.**<br>
- To appear in *Contributions to Neural Data Science, Springer*.
+ *Contributions to Neural Data Science, proceedings of Startup Research*, Springer Proceedings in Mathematics and Statistics.
   
