@@ -2,7 +2,7 @@
 # Contact widget.
 #widget = "contact"
 active = false
-date = 2018-04-20T00:00:00
+date = 2018-11-05T00:00:00
 slug = "contact"
 
 

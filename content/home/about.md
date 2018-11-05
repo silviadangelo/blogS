@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-04-20T00:00:00
+date = 2018-11-05T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -38,4 +38,5 @@ weight = 5
 ### Hi!
 
 My name is Silvia D'Angelo and I'm a Post Doc at University College Dublin, working with [Prof. Lorraine Brennan](https://people.ucd.ie/lorraine.brennan) and [Prof. Claire Gormley](https://maths.ucd.ie/people/gormley_c) on the ERC funded project A-DIET.
+
 Previoulsy I've been a PhD student in Statistics at Sapienza, University or Rome, under the supervision of [Prof. Marco Alfò](http://www.dss.uniroma1.it/it/dipartimento/alf-marco). 

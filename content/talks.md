@@ -1,7 +1,7 @@
 ﻿+++
 # Recent and Upcoming Talks widget.
 active = false
-date = 2018-07-12T00:00:00
+date = 2018-11-05T00:00:00
 slug = "talks"
 
 title = "Recent & Upcoming Talks"

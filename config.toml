@@ -52,15 +52,15 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Silvia D'Angelo"
-  role = "PhD student in Statistics"
+  role = "Post Doc in Statistics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Sapienza, University of Rome", url = "" } ]
+  organizations = [ { name = "University College Dublin", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "silvia.dangelo@uniroma1.it"
+  email = "silvia.dangelo@ucd.ie"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
