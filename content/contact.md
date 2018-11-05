@@ -19,11 +19,12 @@ autolink = true
 
 ## Address
 
-DEPARTMENT OF STATISTICAL SCIENCES<br>
-Sapienza, University of Rome<br>
-Piazzale Aldo Moro 5, <br>
-00185 Roma
+The Insight Centre for Data Analytics<br>
+University College Dublin<br>
+O'Brien Centre for Science<br>
+Science Centre East<br>
+Belfield, Dublin 4, Ireland<br>
 
 ### Mail
 
-silvia.dangelo@uniroma1.it
+silvia.dangelo@ucd.ie
